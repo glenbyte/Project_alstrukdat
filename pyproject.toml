@@ -6,7 +6,12 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "bs4>=0.0.2",
+    "fpdf2",
+    "google-genai",
     "matplotlib>=3.10.9",
+    "openpyxl",
     "pandas>=2.3.3",
+    "python-dotenv",
+    "requests",
     "streamlit>=1.65.0",
 ]
